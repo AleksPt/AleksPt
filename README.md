@@ -7,6 +7,9 @@ LinkedIn: [AleksPt](https://www.linkedin.com/in/alekspt/)​
 
 Город: Санкт-Петербург
 
+## 📌 Навыки ##
+Swift, UIKit, SwiftUI, ARC, URLSession, Alamofire, CoreData, UserDefaults, Firebase, Realm, Git, CocoaPods, Swift Package Manager, MVC, MVP, MVVM, GCD, async/await, ООП, SOLID, Xcode, SnapKit, Kingfisher
+
 ## 📌 Опыт ##
 + ### Devrush Production ###
   *май 2024 - н.в.*

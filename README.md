@@ -80,7 +80,7 @@ LinkedIn: [AleksPt](https://www.linkedin.com/in/alekspt/)​
     Стек: UIKit, URLSession
 
 + ### iOS Summer School ###
-  *июль 20242*
+  *июль 2024*
 
   Летняя школа по iOS-разработке от [Surf](https://career.habr.com/companies/surf)
 

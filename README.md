@@ -12,6 +12,12 @@ LinkedIn: [AleksPt](https://www.linkedin.com/in/alekspt/)​
   *май 2024 - н.в.*
 
   Проекты:
+
+  [**TicTacToe**](https://github.com/AleksPt/TicTacToe)
+  + Описание: игра «Крестики-Нолики»
+  + Команда: 4 человека
+  + Стек: SwiftUI, AppStorage, AVFoundation
+  + Мой вклад: управлял командой в качестве тимлида, реализовал класс с логикой игры, создал экран GameView, реализовал работу таймера
   
   [**EpicRPS**](https://github.com/AleksPt/EpicRPS)
   + Описание: игра «Камень, ножницы, бумага»
